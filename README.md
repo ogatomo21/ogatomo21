@@ -12,13 +12,7 @@ Programmer / Blogger / Student
 - OSAKA キッズプログラミングコンテスト 2023 最優秀賞
 
 ## Links
-- [Tomoyan's Blog](https://ogatomo.net)
-- X(Comming Soon...)
-- YouTube(Comming Soon...)
-- [Qiita](https://qiita.com/ogatomo21)
-- [Zenn](https://zenn.dev/ogatomo21)
-- [GitHub](https://github.com/ogatomo21)
-- [Bluesky](https://bsky.app/profile/ogatomo.net)
+- [Links](https://ogatomo21.github.io)
 
 <!--
 **ogatomo21/ogatomo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
