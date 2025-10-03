@@ -49,7 +49,9 @@
 - OSAKA キッズプログラミングコンテスト 2023 最優秀賞
 
 ## Links
-- [Links](https://ogatomo21.github.io)
+- [Tomoyan's Blog](https://ogtm.dev/blog)
+- [Twitter(Main)](https://ogtm.dev/x)
+- [Twitter(Sub, im@s)](https://ogtm.dev/x_sub)
 
 <!--
 **ogatomo21/ogatomo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
