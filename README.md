@@ -1,4 +1,4 @@
-[![Prifile Banner](https://static.ogatomo.net/banner.png)](https://about.ogatomo.net)
+<!--[![Prifile Banner](https://static.ogatomo.net/banner.png)](https://about.ogatomo.net)-->
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,python,git,vscode,linux,windows,bootstrap,cloudflare,md,vim,wordpress)](https://skillicons.dev)-->
 
@@ -30,19 +30,9 @@
 
 ## About me
 
-プログラミングとテクノロジー全般が好きな13歳です。最近はネットワークをいろいろいじるのにハマっています。[Tomoyan's Blog](https://ogatomo.net)という個人ブログも経営しています。
+プログラミングとテクノロジー全般が好きな14歳です。最近はネットワークをいろいろいじるのにハマっています。[Tomoyan's Blog](https://ogatomo.net)という個人ブログも経営しています。
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-ogatomo21-pj.vercel.app/api/wakatime?username=ogatomo21&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-ogatomo21-pj.vercel.app/api/wakatime?username=ogatomo21&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-ogatomo21-pj.vercel.app/api/wakatime?username=ogatomo21&layout=compact" />
-</picture>
+https://github-readme-stats.hackclub.dev/api/wakatime?username=38675&api_domain=hackatime.hackclub.com&theme=blue_navy&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=16
 
 ## Awards
 - Tech Kids Grand Prix 2023 総合優勝
