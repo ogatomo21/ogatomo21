@@ -1,9 +1,6 @@
 <!--[![Prifile Banner](https://static.ogatomo.net/banner.png)](https://about.ogatomo.net)-->
 
-<!--[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,python,git,vscode,linux,windows,bootstrap,cloudflare,md,vim,wordpress)](https://skillicons.dev)-->
-
-[![wakatime](https://wakatime.com/badge/user/018e4722-c6b5-4efc-b758-7334880ce44e.svg)](https://wakatime.com/@018e4722-c6b5-4efc-b758-7334880ce44e)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ogatomo21)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,python,git,vscode,linux,windows,bootstrap,cloudflare,md,vim,wordpress)](https://skillicons.dev)
 
 <picture>
   <source
@@ -32,7 +29,7 @@
 
 プログラミングとテクノロジー全般が好きな14歳です。最近はネットワークをいろいろいじるのにハマっています。[Tomoyan's Blog](https://ogatomo.net)という個人ブログも経営しています。
 
-https://github-readme-stats.hackclub.dev/api/wakatime?username=38675&api_domain=hackatime.hackclub.com&theme=blue_navy&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=16
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=38675&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=16)
 
 ## Awards
 - Tech Kids Grand Prix 2023 総合優勝
@@ -40,8 +37,8 @@ https://github-readme-stats.hackclub.dev/api/wakatime?username=38675&api_domain=
 
 ## Links
 - [Tomoyan's Blog](https://ogtm.dev/blog)
-- [Twitter(Main)](https://ogtm.dev/x)
-- [Twitter(Sub, im@s)](https://ogtm.dev/x_sub)
+- [about.ogatomo](https://about.ogtm.dev)
+- [Twitter](https://ogtm.dev/x)
 
 <!--
 **ogatomo21/ogatomo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
